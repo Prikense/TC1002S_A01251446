@@ -1,0 +1,11 @@
+###Manual de usuario sobre el uso de los archivos de este repositorio###
+
+Para visualizar el archivo es necesario usar un editor de python notebook, como jupyter o CoCalc, etc.
+1) Importa el archivo al editor de su preferencia.
+2) Importante importar archivo csv "Child Smokers.csv" tambien al editor, para poder trabajar con el.
+3) corre cada celda, empezando por las primeras de arriba y por último las de abajo.
+
+##Descripción de actividades##
+-Actividad k-means: Se hace un analisis de k-mean de "child smokers"
+-Actividad Mapas de calor: Se genera histogramas, mapas de calor y diagrama de boxplot del archivo "child smokers"
+-Actividad Obtencion de estadistica: Estadisticas basicas del archivo "child smokers"
